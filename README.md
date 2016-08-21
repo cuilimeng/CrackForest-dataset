@@ -5,7 +5,7 @@
 #                                                                 #
 ###################################################################
 
-1. Introduction.
+1.Introduction.
 
 CrackForest Dataset is an annotated road crack image database which can reflect urban road surface condition in general.
 
@@ -15,13 +15,13 @@ TBA.
 
 ###################################################################
 
-2. License.
+2.License.
 
 The dataset is made available for non-commercial research purposes only.
 
 ###################################################################
 
-3. History.
+3.History.
 
 Version 1.0 (2015/09/29)
  - initial version
